@@ -1,0 +1,24 @@
+you can download data using this link
+
+https://drive.google.com/drive/folders/1tXU_mKy75VDdZ_WVqhDKrabAWJ7NTd8N
+
+
+I was able to provide the following solutions 
+
+1 total COUNT of accidents that happened during the day?
+2 Find the sum of accidents that occurred Tarrant County.
+3 total COUNT of accidents that happened during the day BY Count?
+4 total COUNT of accidents that happened during the Night BY Count?
+5 Accident by weather condition and severity
+6 Total accident according to monthh of the year
+7 Accident by City in descending order
+8 Total accident according to hour of the day
+
+
+By applying the following steps
+
+1 Create a Db
+2 create a schema
+3 ingest the data
+4 join the 4 datasets togethher for easy exploration
+
